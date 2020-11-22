@@ -8,9 +8,9 @@
 - 🌱 I’m currently learning React JS
 - 👯 open source contributor
 - 💬 Ask me about **MongoDB** **Express** **React JS** **Node JS**
-- 📫 How to reach me: ...
+- 📫 How to reach me: ... 
 - 😄 Pronouns: Pronouns: I, you, he, it, they, this
-- ⚡  Fun fact: I spend almost 7-8 hours Learning everyday
+- ⚡  Fun fact: I spend almost 5-6 hours Learning everyday
 
 
 <h3 align="left">Languages and Tools:</h3>
@@ -20,5 +20,6 @@
   <a href="https://scikit-learn.org/" target="_blank"> <img src="https://avatars1.githubusercontent.com/u/16848261?s=280&v=4" alt="scikit_learn" width="40" height="40"/> </a>  
 <a href="https://www.cprogramming.com/" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> 
 <a href="https://www.w3schools.com/cs/" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="40" height="40"/> 
-</p>
+  <a href="https://www.php.net" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> 
+  <a href="https://www.linux.org/" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> 
 </p>
