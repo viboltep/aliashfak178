@@ -14,7 +14,7 @@
 - 🌱 I’m currently learning React JS
 - 👯 open source contributor
 - 💬 Ask me about **MongoDB** **Express** **React JS** **Node JS**
-- 📫 How to reach me: [my Portfolio](https://aliashfak178.github.io/myportfolio.github.io/)
+- 📫 How to reach me: aliashfak178@gmail.com
 - 😄 Pronouns: Pronouns: I, you, he, it, they, this
 - ⚡  Fun fact: I spend almost 5-6 hours Learning everyday
 
