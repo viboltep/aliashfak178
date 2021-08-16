@@ -11,9 +11,9 @@
 
 
 - 🔭 At that movement I am doing BCA (Bachelors of Computer Application)
-- 🌱 I’m currently learning React JS
+- 🌱 I’m currently learning Angular
 - 👯 open source contributor
-- 💬 Ask me about **MongoDB** **Express** **React JS** **Node JS**
+- 💬 Ask me about **MongoDB** **Express** **React JS** **Node JS** **Angular**
 - 📫 How to reach me: aliashfak178@gmail.com
 - 😄 Pronouns: Pronouns: I, you, he, it, they, this
 - ⚡  Fun fact: I spend almost 5-6 hours Learning everyday
